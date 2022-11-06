@@ -1,0 +1,5 @@
+Java Guide
+https://www.javaguides.net/2022/07/spring-boot-rabbitmq-send-and-receive-json-messages.html
+
+java.lang.NoClassDefFoundError: com/fasterxml/jackson/databind/ObjectMapper rabbitmq
+https://stackoverflow.com/questions/30367045/java-lang-noclassdeffounderror-com-fasterxml-jackson-core-jsonfactory
